@@ -4,7 +4,7 @@ description: Build deep understanding through teaching, identifying gaps, and it
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3997
+  version: 1.0.3998
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - the-feynman-technique
